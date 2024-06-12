@@ -23,4 +23,8 @@ public class Triangle extends GeometricalShape {
         this.sideC = sideC;
         this.height = height;
     }
+
+    private boolean isValidTriangle(double sideA, double sideB, double sideC) {
+        return (sideA + sideB > sideC) && (sideB + sideC > sideA) && (sideC + sideA > sideB);
+    }
 }

@@ -4,20 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d077abb-659e-444c-abc8-0a2c20b2be3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPLessons.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/GeometricalShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/Hexagon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/Triangle.java" afterDir="false" />
+    <list default="true" id="8d077abb-659e-444c-abc8-0a2c20b2be3b" name="Changes" comment="Created files for the polymorphism activity">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphism/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polymorphism/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphism/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polymorphism/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +57,19 @@
       <option name="presentableId" value="Default" />
       <updated>1718147713202</updated>
     </task>
+    <task id="LOCAL-00001" summary="Created files for the polymorphism activity">
+      <option name="closed" value="true" />
+      <created>1718149907841</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718149907841</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created files for the polymorphism activity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created files for the polymorphism activity" />
   </component>
 </project>
